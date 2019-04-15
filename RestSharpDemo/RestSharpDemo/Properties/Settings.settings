@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RestSharpDemo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Uri" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://reqres.in/api/users</Value>
+    </Setting>
+    <Setting Name="body" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{
+    "name": "Shruthi",
+    "job": "Engineer"
+}</Value>
+    </Setting>
+    <Setting Name="PatchBody" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{
+    "name": "Rose",
+    "job": "Engineer"    
+}</Value>
+    </Setting>
+    <Setting Name="PutBody" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{
+    "name": "Lily",
+    "job": "Doctor"
+}</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
